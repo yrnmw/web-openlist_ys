@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://enzenbqu.us-east-1.clawcloudrun.com//$1"}
+      {"src": "/(.*)","dest": "https://60.215.128.50:56457//$1"}
   ]
 }
